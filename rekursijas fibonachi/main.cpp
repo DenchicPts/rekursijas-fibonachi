@@ -1,10 +1,9 @@
 #include "mylib.h"
 
 int main() {
-	setlocale(LC_ALL, "Russian");
 
 	int uzdevums(0);
-	cout << "Ievadiet uzdevums 1, 2, 3" << endl;
+	cout << "Enter the task 1, 2, 3, 4" << endl;
 	cin >> uzdevums;
 	switch (uzdevums)
 	{

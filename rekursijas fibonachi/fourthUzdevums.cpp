@@ -24,7 +24,7 @@ void fourthUzd() {
 		cout << "" << result << endl;
 	}
 	else {
-		cout << "not" << std::endl;
+		cout << "not" << endl;
 	}
 
 }

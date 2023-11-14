@@ -20,15 +20,15 @@ void printFibo(int n) {
 }
 
 void firstUzd() {
-    setlocale(LC_ALL, "Russian");
+
     int N;
 
-    cout << "Введите N для вывода первых N чисел Фибоначчи: ";
+    cout << "Enter N to output the first N Fibonacci numbers: ";
     cin >> N;
 
 
 
-    cout << "Первые " << N << " чисел Фибоначчи: ";
+    cout << "The first " << N << " Fibonacci numbers: ";
     printFibo(N);
     cout << "\n";
 }
