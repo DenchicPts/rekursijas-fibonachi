@@ -9,8 +9,9 @@ int main() {
 	switch (uzdevums)
 	{
 	case 1: firstUzd(); break;
-	//case 2: secondUzd(); break;
-	//case 3: thirdUzd(); break;
+	case 2: secondUzd(); break;
+	case 3: thirdUzd(); break;
+	case 4: fourthUzd(); break;
 	default:
 		break;
 	}

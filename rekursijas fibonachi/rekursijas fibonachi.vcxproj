@@ -132,6 +132,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="firstUzdevums.cpp" />
+    <ClCompile Include="fourthUzdevums.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="secondUzdevums.cpp" />
     <ClCompile Include="thirdUzdevums.cpp" />
